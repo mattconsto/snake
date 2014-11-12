@@ -1,0 +1,13 @@
+K:\Progmaze\Progmaze\obj\Release\ResolveAssemblyReference.cache
+K:\Progmaze\Progmaze\obj\Release\Progmaze.vbproj.GenerateResource.Cache
+K:\Progmaze\Progmaze\bin\Release\ProgSnake.exe
+K:\Progmaze\Progmaze\bin\Release\ProgSnake.pdb
+K:\Progmaze\Progmaze\bin\Release\ProgSnake.xml
+K:\Progmaze\Progmaze\obj\Release\ProgSnake.Form.resources
+K:\Progmaze\Progmaze\obj\Release\ProgSnake.Resources.resources
+K:\Progmaze\Progmaze\obj\Release\ProgSnake.exe
+K:\Progmaze\Progmaze\obj\Release\ProgSnake.xml
+K:\Progmaze\Progmaze\obj\Release\ProgSnake.pdb
+H:\MyWork\Visual Studio 2008\Projects\Progmaze\Progmaze\obj\Release\ProgSnake.exe
+H:\MyWork\Visual Studio 2008\Projects\Progmaze\Progmaze\obj\Release\ProgSnake.xml
+H:\MyWork\Visual Studio 2008\Projects\Progmaze\Progmaze\obj\Release\ProgSnake.pdb
